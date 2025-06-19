@@ -1,0 +1,25 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <!-- Project coordinates -->
+  <groupId>org.example</groupId>
+  <artifactId>PDFTableExtractor1</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <name>PDFTableExtractor1</name>
+  <url>http://maven.apache.org</url>
+
+  <!-- Define your dependencies here -->
+  <dependencies>
+    <!-- Tabula Dependency for extracting tables from PDFs -->
+    <dependency>
+      <groupId>technology.tabula</groupId>
+      <artifactId>tabula</artifactId>
+      <version>1.0.3</version>
+    </dependency>
+  </dependencies>
+
+  <!-- Optional: Build settings or plugin configurations can go here -->
+
+</project>
