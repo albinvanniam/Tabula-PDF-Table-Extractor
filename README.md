@@ -16,8 +16,9 @@ Clean Text: Raw format with row-wise data, similar to the original content but w
 Installation
 1. Clone the Repository
 
-git clone https://github.com/yourusername/PDFTableExtractor.git
+git clone https://github.com/albinvanniam/Tabula-PDF-Table-Extractor
 cd PDFTableExtractor
+
 2. Set up Maven
 Make sure you have Maven installed. Then, navigate to the project directory and run:
 
